@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pattern/PatternRunner.csproj" />
+  <Project Path="PatternLap/PatternLap.csproj" Id="2900c401-8b0c-4ae1-88a2-d06c5cd9f739" />
+</Solution>

@@ -1,0 +1,14 @@
+D:\Gourny .Net\Learn c#\Library\Library\bin\Debug\net10.0\Library.exe
+D:\Gourny .Net\Learn c#\Library\Library\bin\Debug\net10.0\Library.deps.json
+D:\Gourny .Net\Learn c#\Library\Library\bin\Debug\net10.0\Library.runtimeconfig.json
+D:\Gourny .Net\Learn c#\Library\Library\bin\Debug\net10.0\Library.dll
+D:\Gourny .Net\Learn c#\Library\Library\bin\Debug\net10.0\Library.pdb
+D:\Gourny .Net\Learn c#\Library\Library\obj\Debug\net10.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gourny .Net\Learn c#\Library\Library\obj\Debug\net10.0\Library.AssemblyInfoInputs.cache
+D:\Gourny .Net\Learn c#\Library\Library\obj\Debug\net10.0\Library.AssemblyInfo.cs
+D:\Gourny .Net\Learn c#\Library\Library\obj\Debug\net10.0\Library.csproj.CoreCompileInputs.cache
+D:\Gourny .Net\Learn c#\Library\Library\obj\Debug\net10.0\Library.dll
+D:\Gourny .Net\Learn c#\Library\Library\obj\Debug\net10.0\refint\Library.dll
+D:\Gourny .Net\Learn c#\Library\Library\obj\Debug\net10.0\Library.pdb
+D:\Gourny .Net\Learn c#\Library\Library\obj\Debug\net10.0\Library.genruntimeconfig.cache
+D:\Gourny .Net\Learn c#\Library\Library\obj\Debug\net10.0\ref\Library.dll

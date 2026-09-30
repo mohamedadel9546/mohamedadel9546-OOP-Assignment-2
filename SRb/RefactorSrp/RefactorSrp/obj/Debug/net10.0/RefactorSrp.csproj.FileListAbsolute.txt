@@ -1,0 +1,14 @@
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\bin\Debug\net10.0\RefactorSrp.exe
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\bin\Debug\net10.0\RefactorSrp.deps.json
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\bin\Debug\net10.0\RefactorSrp.runtimeconfig.json
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\bin\Debug\net10.0\RefactorSrp.dll
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\bin\Debug\net10.0\RefactorSrp.pdb
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\obj\Debug\net10.0\RefactorSrp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\obj\Debug\net10.0\RefactorSrp.AssemblyInfoInputs.cache
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\obj\Debug\net10.0\RefactorSrp.AssemblyInfo.cs
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\obj\Debug\net10.0\RefactorSrp.csproj.CoreCompileInputs.cache
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\obj\Debug\net10.0\RefactorSrp.dll
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\obj\Debug\net10.0\refint\RefactorSrp.dll
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\obj\Debug\net10.0\RefactorSrp.pdb
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\obj\Debug\net10.0\RefactorSrp.genruntimeconfig.cache
+D:\Gourny .Net\Learn c#\RefactorSrp\RefactorSrp\obj\Debug\net10.0\ref\RefactorSrp.dll
