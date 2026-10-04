@@ -1,0 +1,14 @@
+D:\Gourny .Net\Learn c#\Pattern\Pattern\bin\Debug\net10.0\Pattern.exe
+D:\Gourny .Net\Learn c#\Pattern\Pattern\bin\Debug\net10.0\Pattern.deps.json
+D:\Gourny .Net\Learn c#\Pattern\Pattern\bin\Debug\net10.0\Pattern.runtimeconfig.json
+D:\Gourny .Net\Learn c#\Pattern\Pattern\bin\Debug\net10.0\Pattern.dll
+D:\Gourny .Net\Learn c#\Pattern\Pattern\bin\Debug\net10.0\Pattern.pdb
+D:\Gourny .Net\Learn c#\Pattern\Pattern\obj\Debug\net10.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gourny .Net\Learn c#\Pattern\Pattern\obj\Debug\net10.0\Pattern.AssemblyInfoInputs.cache
+D:\Gourny .Net\Learn c#\Pattern\Pattern\obj\Debug\net10.0\Pattern.AssemblyInfo.cs
+D:\Gourny .Net\Learn c#\Pattern\Pattern\obj\Debug\net10.0\Pattern.csproj.CoreCompileInputs.cache
+D:\Gourny .Net\Learn c#\Pattern\Pattern\obj\Debug\net10.0\Pattern.dll
+D:\Gourny .Net\Learn c#\Pattern\Pattern\obj\Debug\net10.0\refint\Pattern.dll
+D:\Gourny .Net\Learn c#\Pattern\Pattern\obj\Debug\net10.0\Pattern.pdb
+D:\Gourny .Net\Learn c#\Pattern\Pattern\obj\Debug\net10.0\Pattern.genruntimeconfig.cache
+D:\Gourny .Net\Learn c#\Pattern\Pattern\obj\Debug\net10.0\ref\Pattern.dll
